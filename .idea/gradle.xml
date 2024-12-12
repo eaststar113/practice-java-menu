@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-convenience-store-7" />
+        <option name="gradleJvm" value="azul-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-convenience-store-7" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-menu-5" />
+        <option name="gradleJvm" value="azul-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-menu-5" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-oncall-6" />
+        <option name="gradleJvm" value="azul-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-oncall-6" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-pairmatching-4" />
+        <option name="gradleJvm" value="azul-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-pairmatching-4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
